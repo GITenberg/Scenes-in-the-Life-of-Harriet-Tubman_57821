@@ -1,0 +1,32 @@
+_repo: Scenes-in-the-Life-of-Harriet-Tubman_57821
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradford, Sarah H. (Sarah Hopkins)
+    aliases:
+    - Bradford, S. H. (Sarah Hopkins)
+    - Bradford, Sarah Hopkins
+    - Bradford, Sarah Elizabeth (Hopkins)
+    - Cousin Cicely
+    birthdate: 1818
+    gutenberg_agent_id: '5940'
+    url: http://www.gutenberg.org/2009/agents/5940
+description: ''
+gutenberg_issued: '2018-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57821'
+  lccn: 07031857
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Underground Railroad'
+- !lcsh 'Slaves -- United States -- Biography'
+- !lcsh 'African Americans -- Biography'
+- !lcsh 'Tubman, Harriet, 1822-1913'
+- GITenberg
+title: Scenes in the Life of Harriet Tubman
+url: http://www.gutenberg.org/ebooks/57821
