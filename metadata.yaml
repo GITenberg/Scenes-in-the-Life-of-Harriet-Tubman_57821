@@ -1,5 +1,8 @@
 _repo: Scenes-in-the-Life-of-Harriet-Tubman_57821
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57821-h/images/cover.jpg
 creator:
   author:
     agent_name: Bradford, Sarah H. (Sarah Hopkins)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '5940'
     url: http://www.gutenberg.org/2009/agents/5940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57821#Scenes-in-the-Life-of-Harriet-Tubman
 gutenberg_issued: '2018-08-31'
 gutenberg_type: Text
 identifiers:
